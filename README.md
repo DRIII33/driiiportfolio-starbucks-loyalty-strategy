@@ -22,7 +22,7 @@
 3. **Advanced Econometric Modeling:** 
    * **Intent-to-Treat (ITT) RCT Analysis:** Deploys a difference-in-differences change-score regression with heteroscedasticity-robust standard errors (HC3) to evaluate a simulated promotional campaign.
    * **Difference-in-Differences (DiD) Transaction Model:** Examines raw offer completion effects versus randomized assignment to highlight the dangers of selection bias and cannibalization.
-4. **Reproducible Artifacts:** Complete automation scripts, SQL views, validation reports, and execution manifests packaged cleanly for stakeholder review.
+4. **Reproducible Artifacts:** Complete automation scripts, SQL views, validation reports, Looker Studio dashboard specifications, and execution manifests packaged cleanly for stakeholder review.
 
 ---
 
@@ -31,7 +31,7 @@
 * `notebooks/`: Contains the master executable Jupyter/Colab notebook (`Project_Siren_LTV_Portfolio.ipynb`).
 * `sql/`: BigQuery DDL definitions (`01_create_views.sql`) and data quality auditing scripts (`02_validation.sql`).
 * `src/`: Python scripts for reproducible data generation (`generate_synthetic_data.py`) and econometric lift modeling (`run_econometric_model.py`).
-* `docs/`: In-depth documentation covering architecture, data dictionaries, and auditing guardrails.
+* `docs/`: In-depth documentation covering `Executive_Summary.md`, `Dashboard_Executive_Summary.md`, `Project_Disclaimer.md`, architecture, data dictionaries, and auditing guardrails.
 * `artifacts/`: Machine-readable CSV reports and run manifests (`run_manifest.json`).
 
 ---
