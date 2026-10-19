@@ -4,8 +4,6 @@
 -- ============================================================================
 
 -- 1. Descriptive Offer Performance View
--- Attribution rule: Transactions matching multiple offer windows are assigned once
--- to the matching offer with the latest start date (offer_id breaks ties).
 CREATE OR REPLACE VIEW `driiiportfolio.starbucks_loyalty_analytics.vw_offer_performance` AS
 WITH offer_base AS (
   SELECT
@@ -77,7 +75,6 @@ LEFT JOIN attributed_sales AS a
 
 
 -- 2. Mature 90-Calendar-Day Cohort Value and Frequency View
--- Window: [join_date, join_date + 90 days). Maturity screened against MAX(transaction_date).
 CREATE OR REPLACE VIEW `driiiportfolio.starbucks_loyalty_analytics.vw_cohort_90d_ltv` AS
 WITH data_cutoff AS (
   SELECT MAX(transaction_date) AS max_transaction_date
@@ -140,7 +137,6 @@ GROUP BY cohort_month, acquisition_channel, mop_onboarding_group;
 
 
 -- 3. Randomized Synthetic Experiment Member-Level Change View
--- Evaluates 30 days pre-experiment (2025-09-01 to 2025-09-30) vs 30 days post-exposure.
 CREATE OR REPLACE VIEW `driiiportfolio.starbucks_loyalty_analytics.vw_experiment_member_change` AS
 WITH member_period AS (
   SELECT
