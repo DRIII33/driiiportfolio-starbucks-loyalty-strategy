@@ -22,7 +22,7 @@ The Looker Studio dashboard is structured into two dedicated executive pages des
 * **Key Visualizations & Data Story:**
   1. **Executive Scorecards:** Tracks total offers issued (120.0K), completion rate (39.11%), attributed net sales ($207.70K), and average net-to-gross margin ratio (92.7%).
   2. **Offer Performance & Net Margin by Tier:** Stacked bar charts contrasting Green vs. Gold tier revenue and discount impact, exposing margin-eroding subsidies funneled to high-frequency members.
-  3. **Randomized Control Trial (RCT) Lift Analysis:** Difference-in-differences bar chart proving true incremental daily net sales lift ($+0.0243$ treatment vs. $\$0.0028$ control).
+  3. **Randomized Control Trial (RCT) Lift Analysis:** Difference-in-differences bar chart proving true incremental daily net sales lift ($+0.0243$ treatment vs. $\0.0028$ control).
 
 ---
 
