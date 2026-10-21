@@ -18,10 +18,9 @@ The Looker Studio dashboard is structured into two dedicated executive pages des
 ---
 
 ### Page 1: 
+* **Purpose:** Addresses **Bottleneck 1 (The Cannibalization Trap)** by auditing campaign volume, net-to-gross margin retention, and true causal lift.
 ![Executive Overview & Campaign Incrementality](dashboard_image_assets/dashboard_asset2.png)
 
-
-* **Purpose:** Addresses **Bottleneck 1 (The Cannibalization Trap)** by auditing campaign volume, net-to-gross margin retention, and true causal lift.
 * **Key Visualizations & Data Story:**
   1. **Executive Scorecards:** Tracks total offers issued (120.0K), completion rate (39.11%), attributed net sales ($207.70K), and average net-to-gross margin ratio (92.7%).
   2. **Offer Performance & Net Margin by Tier:** Stacked bar charts contrasting Green vs. Gold tier revenue and discount impact, exposing margin-eroding subsidies funneled to high-frequency members.
@@ -30,10 +29,9 @@ The Looker Studio dashboard is structured into two dedicated executive pages des
 ---
 
 ### Page 2:
+* **Purpose:** Resolves **Bottleneck 2 (Ambiguous LTV Drivers)** and **Bottleneck 3 (Siloed Insights)** by connecting early digital adoption to 90-day LTV.
 ![Member LTV & Behavioral Onboarding Velocity](dashboard_image_assets/dashboard_asset3.png)
 
-
-* **Purpose:** Resolves **Bottleneck 2 (Ambiguous LTV Drivers)** and **Bottleneck 3 (Siloed Insights)** by connecting early digital adoption to 90-day LTV.
 * **Key Visualizations & Data Story:**
   1. **90-Day LTV KPI Scorecards:** Highlights mature member base (50,000), mean 90-day net spend ($19.97), and transaction frequency (2.85).
   2. **90-Day LTV by MOP Onboarding Velocity:** Clustered column chart demonstrating that early Mobile Order & Pay adoption within 14 days multiplies 90-day spend.
