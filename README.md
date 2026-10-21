@@ -30,7 +30,7 @@
 
 * `sql/`: BigQuery DDL definitions (`01_create_views.sql`) and data quality auditing scripts (`02_validation.sql`).
 * `src/`: Python scripts for reproducible data generation (`generate_synthetic_data.py`) and econometric lift modeling (`run_econometric_model.py`).
-* `docs/`: In-depth documentation covering `Executive_Summary.md`, `Dashboard_Executive_Summary.md`, `Project_Disclaimer.md`, architecture, data dictionaries, and auditing guardrails.
+* `docs/`: In-depth documentation covering `Project_Disclaimer.md`, architecture, data dictionaries, and auditing guardrails.
 * `artifacts/`: Machine-readable CSV reports and run manifests (`run_manifest.json`).
 
 ---
