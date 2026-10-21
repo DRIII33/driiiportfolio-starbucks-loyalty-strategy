@@ -30,7 +30,7 @@ The Looker Studio dashboard is structured into two dedicated executive pages des
 ---
 
 ### Page 2:
-![Member LTV & Behavioral Onboarding Velocity](driiiportfolio-starbucks-loyalty-strategy/artifacts/dashboard_image_assets/dashboard_asset3.png)
+![Member LTV & Behavioral Onboarding Velocity](dashboard_image_assets/dashboard_asset3.png)
 
 
 * **Purpose:** Resolves **Bottleneck 2 (Ambiguous LTV Drivers)** and **Bottleneck 3 (Siloed Insights)** by connecting early digital adoption to 90-day LTV.
