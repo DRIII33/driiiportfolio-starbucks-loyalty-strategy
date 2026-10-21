@@ -1,0 +1,2 @@
+experiment_id,control_members,treatment_members,estimated_change_in_daily_net_sales_per_member,ci_95_low,ci_95_high,p_value_hc3,synthetic_data_only
+SIREN_LTV_RCT_2025_10,23838,23837,0.02153149064435887,0.014780616191162579,0.02828236509755516,4.073573170985966e-10,True

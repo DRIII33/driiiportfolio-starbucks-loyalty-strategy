@@ -1,0 +1,27 @@
+{
+  "project_id": "driiiportfolio",
+  "dataset_id": "starbucks_loyalty_analytics",
+  "location": "US",
+  "random_seed": 42,
+  "data_start": "2024-01-01",
+  "data_cutoff": "2025-12-31",
+  "experiment_id": "SIREN_LTV_RCT_2025_10",
+  "assignment_date": "2025-10-01",
+  "pre_period": [
+    "2025-09-01",
+    "2025-09-30"
+  ],
+  "post_period": [
+    "2025-10-01",
+    "2025-10-30"
+  ],
+  "synthetic_data": true,
+  "treatment_effect_injected_into_gross_ticket": 0.12,
+  "max_bytes_billed_per_guarded_query": 1000000000,
+  "experiment_estimate": 0.02153149064435887,
+  "experiment_ci_95": [
+    0.014780616191162579,
+    0.02828236509755516
+  ],
+  "experiment_p_value_hc3": 4.073573170985966e-10
+}

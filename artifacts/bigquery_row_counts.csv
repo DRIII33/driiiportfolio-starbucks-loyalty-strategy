@@ -1,0 +1,6 @@
+table_name,row_count
+dim_members,50000
+dim_store_locations,150
+fact_experiment_assignment,47675
+fact_offers,120000
+fact_transactions,500000

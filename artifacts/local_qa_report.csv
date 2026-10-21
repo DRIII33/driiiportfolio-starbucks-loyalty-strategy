@@ -1,0 +1,14 @@
+check,passed
+dim_members_unique,True
+dim_stores_unique,True
+transaction_ids_unique,True
+offer_ids_unique,True
+assignment_member_unique,True
+transaction_members_valid,True
+transaction_stores_valid,True
+member_home_stores_valid,True
+no_pre_join_transactions,True
+sales_reconcile,True
+offers_after_join,True
+offer_ends_by_cutoff,True
+assignment_eligible,True
