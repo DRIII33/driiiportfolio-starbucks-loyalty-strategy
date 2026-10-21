@@ -18,7 +18,8 @@ The Looker Studio dashboard is structured into two dedicated executive pages des
 ---
 
 ### Page 1: 
-![Executive Overview & Campaign Incrementality](driiiportfolio-starbucks-loyalty-strategy/artifacts/dashboard_image_assets/dashboard_asset2.png)
+![Executive Overview & Campaign Incrementality](driiiportfolio-starbucks-loyalty-strategy/artifacts/dashboard_image_assets
+/dashboard_asset2.png)
 
 
 * **Purpose:** Addresses **Bottleneck 1 (The Cannibalization Trap)** by auditing campaign volume, net-to-gross margin retention, and true causal lift.
