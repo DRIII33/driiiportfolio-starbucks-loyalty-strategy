@@ -3,7 +3,7 @@
 **Author:** Daniel Rodriguez III  
 **Cloud Environment:** Google Cloud BigQuery (`driiiportfolio`)  
 **Dataset:** `starbucks_loyalty_analytics`  
-**GitHub Repository:** [starbucks-loyalty-analytics-siren-ltv](https://github.com/DRIIIGistus/starbucks-loyalty-analytics-siren-ltv)  
+**GitHub Repository:** [starbucks-loyalty-analytics-siren-ltv](https://github.com/DRIII33/driiiportfolio-starbucks-loyalty-strategy)  
 
 ---
 
