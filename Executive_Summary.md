@@ -29,6 +29,6 @@ To solve this, **Project Siren-LTV** was engineered as an enterprise-grade analy
 * **Causal Lift Verification:** Econometric difference-in-differences regression isolates an RCT estimated causal lift of **+$0.02** in daily net sales change for treated members over control baselines, proving genuine behavioral shift.
 * **Digital Habituation Velocity:** Mature cohort analysis proves that members who adopt Mobile Order & Pay (MOP) within their first 14 days achieve a 90-day net spend of **~$26.21 to ~$26.82**, compared to under **~$5.00** for non-MOP users, establishing a concrete product roadmap target.
 
-[View Live Looker Studio Dashboard](https://datastudio.google.com/embed/reporting/dc472cc0-4f38-4fac-ae1f-816e0b222ceb/page/p_d76wfmwh8d) 
+[View Live Looker Studio Dashboard](https://https://datastudio.google.com/embed/u/0/reporting/dc472cc0-4f38-4fac-ae1f-816e0b222ceb/page/p_2kfibp4h8d) 
 
 * **Note:** *If you experience any issues viewing the dashboard, please request access.*
