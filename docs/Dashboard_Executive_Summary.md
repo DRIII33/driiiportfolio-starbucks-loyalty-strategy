@@ -17,7 +17,7 @@ The Looker Studio dashboard is structured into two dedicated executive pages des
 
 ---
 
-### Page 1: Executive Overview & Campaign Incrementality
+### Page 1: ![Executive Overview & Campaign Incrementality](artifacts/dashboard_image_assets/dashboard_asset1.png)
 * **Purpose:** Addresses **Bottleneck 1 (The Cannibalization Trap)** by auditing campaign volume, net-to-gross margin retention, and true causal lift.
 * **Key Visualizations & Data Story:**
   1. **Executive Scorecards:** Tracks total offers issued (120.0K), completion rate (39.11%), attributed net sales ($207.70K), and average net-to-gross margin ratio (92.7%).
@@ -26,7 +26,7 @@ The Looker Studio dashboard is structured into two dedicated executive pages des
 
 ---
 
-### Page 2: Member LTV & Behavioral Onboarding Velocity
+### Page 2: ![Member LTV & Behavioral Onboarding Velocity](artifacts/dashboard_image_assets/dashboard_asset2.png)
 * **Purpose:** Resolves **Bottleneck 2 (Ambiguous LTV Drivers)** and **Bottleneck 3 (Siloed Insights)** by connecting early digital adoption to 90-day LTV.
 * **Key Visualizations & Data Story:**
   1. **90-Day LTV KPI Scorecards:** Highlights mature member base (50,000), mean 90-day net spend ($19.97), and transaction frequency (2.85).
