@@ -17,7 +17,8 @@ The Looker Studio dashboard is structured into two dedicated executive pages des
 
 ---
 
-### Page 1: Executive Overview & Campaign Incrementality <img src="artifacts/dashboard_image_assets/dashboard_asset1.png" alt="Dashboard Asset 1">
+### Page 1: Executive Overview & Campaign Incrementality 
+<img src="artifacts/dashboard_image_assets/dashboard_asset1.png" alt="Dashboard Asset 1">
 
 * **Purpose:** Addresses **Bottleneck 1 (The Cannibalization Trap)** by auditing campaign volume, net-to-gross margin retention, and true causal lift.
 * **Key Visualizations & Data Story:**
@@ -27,7 +28,8 @@ The Looker Studio dashboard is structured into two dedicated executive pages des
 
 ---
 
-### Page 2: Member LTV & Behavioral Onboarding Velocity <img src="artifacts/dashboard_image_assets/dashboard_asset2.png" alt="Dashboard Asset 2">
+### Page 2: Member LTV & Behavioral Onboarding Velocity 
+<img src="artifacts/dashboard_image_assets/dashboard_asset2.png" alt="Dashboard Asset 2">
 
 * **Purpose:** Resolves **Bottleneck 2 (Ambiguous LTV Drivers)** and **Bottleneck 3 (Siloed Insights)** by connecting early digital adoption to 90-day LTV.
 * **Key Visualizations & Data Story:**
